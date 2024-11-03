@@ -1,0 +1,3 @@
+image1.jpg,Edificio A,Categoria A,Descripcion A
+image2.jpg,Edificio B,Categoria B,Descripcion B
+image3.jpg,Edificio C,Categoria C,Descripcion C
